@@ -1,0 +1,12 @@
+/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/bin/Debug/net5.0/Entities.deps.json
+/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/bin/Debug/net5.0/Entities.dll
+/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/bin/Debug/net5.0/ref/Entities.dll
+/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/bin/Debug/net5.0/Entities.pdb
+/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/obj/Debug/net5.0/Entities.csprojAssemblyReference.cache
+/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/obj/Debug/net5.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/obj/Debug/net5.0/Entities.AssemblyInfoInputs.cache
+/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/obj/Debug/net5.0/Entities.AssemblyInfo.cs
+/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/obj/Debug/net5.0/Entities.csproj.CoreCompileInputs.cache
+/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/obj/Debug/net5.0/Entities.dll
+/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/obj/Debug/net5.0/ref/Entities.dll
+/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/obj/Debug/net5.0/Entities.pdb

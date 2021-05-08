@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/vladislavg123/RiderProjects/MicroserviceTest/Data/Data.csproj": {}
+  },
+  "projects": {
+    "/home/vladislavg123/RiderProjects/MicroserviceTest/Data/Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vladislavg123/RiderProjects/MicroserviceTest/Data/Data.csproj",
+        "projectName": "Data",
+        "projectPath": "/home/vladislavg123/RiderProjects/MicroserviceTest/Data/Data.csproj",
+        "packagesPath": "/home/vladislavg123/.nuget/packages/",
+        "outputPath": "/home/vladislavg123/RiderProjects/MicroserviceTest/Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vladislavg123/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/Entities.csproj": {
+                "projectPath": "/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Calabonga.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.2.3, )"
+            },
+            "Calabonga.EntityFrameworkCore.Entities.Base": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Calabonga.UnitOfWork": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/Entities.csproj",
+        "packagesPath": "/home/vladislavg123/.nuget/packages/",
+        "outputPath": "/home/vladislavg123/RiderProjects/MicroserviceTest/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vladislavg123/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Calabonga.EntityFrameworkCore.Entities.Base": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

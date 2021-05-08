@@ -1,0 +1,15 @@
+/home/vladislavg123/RiderProjects/MicroserviceTest/Data/obj/Debug/net5.0/Data.csprojAssemblyReference.cache
+/home/vladislavg123/RiderProjects/MicroserviceTest/Data/obj/Debug/net5.0/Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladislavg123/RiderProjects/MicroserviceTest/Data/obj/Debug/net5.0/Data.AssemblyInfoInputs.cache
+/home/vladislavg123/RiderProjects/MicroserviceTest/Data/obj/Debug/net5.0/Data.AssemblyInfo.cs
+/home/vladislavg123/RiderProjects/MicroserviceTest/Data/obj/Debug/net5.0/Data.csproj.CoreCompileInputs.cache
+/home/vladislavg123/RiderProjects/MicroserviceTest/Data/bin/Debug/net5.0/Data.deps.json
+/home/vladislavg123/RiderProjects/MicroserviceTest/Data/bin/Debug/net5.0/Data.dll
+/home/vladislavg123/RiderProjects/MicroserviceTest/Data/bin/Debug/net5.0/ref/Data.dll
+/home/vladislavg123/RiderProjects/MicroserviceTest/Data/bin/Debug/net5.0/Data.pdb
+/home/vladislavg123/RiderProjects/MicroserviceTest/Data/bin/Debug/net5.0/Entities.dll
+/home/vladislavg123/RiderProjects/MicroserviceTest/Data/bin/Debug/net5.0/Entities.pdb
+/home/vladislavg123/RiderProjects/MicroserviceTest/Data/obj/Debug/net5.0/Data.csproj.CopyComplete
+/home/vladislavg123/RiderProjects/MicroserviceTest/Data/obj/Debug/net5.0/Data.dll
+/home/vladislavg123/RiderProjects/MicroserviceTest/Data/obj/Debug/net5.0/ref/Data.dll
+/home/vladislavg123/RiderProjects/MicroserviceTest/Data/obj/Debug/net5.0/Data.pdb
